@@ -13,5 +13,5 @@ Profile Visitors Count:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
 --->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00ff88&label=PROFILE+VISITORS&query=value&url=https://api.countapi.xyz/hit/haseeb-developer/visits&style=for-the-badge&logo=github&logoColor=white&labelColor=121212" alt="Visitor Counter" />
+  <img src="https://YOUR_VERCEL_DOMAIN.vercel.app/count.svg?username=haseeb-developer&color=gradient&style=flat-square&animation=fade" alt="Ultimate Visitor Counter" />
 </p>
