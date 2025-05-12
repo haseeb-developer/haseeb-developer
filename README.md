@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
