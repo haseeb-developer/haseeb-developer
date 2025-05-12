@@ -12,6 +12,8 @@ Profile Visitors Count:
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
 --->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=haseeb-developer&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="haseeb-developer" /> 
+<p align="center">
+  <a href="https://github.com/haseeb-developer">
+    <img src="https://github-readme-counter.vercel.app/animated/svg?username=haseeb-developer&theme=cyberpunk&animation=fadeIn&duration=500&pattern=plus&color=00FFFF&text_color=FFFFFF&bg_color=0D1117&border_color=00FFFF" alt="Ultimate Visitor Counter"/>
+  </a>
 </p>
