@@ -1,7 +1,7 @@
 <h2 align="center">🌟 Hey, I’m Muhammad Haseeb (@haseeb-developer)</h2>
 
 <p align="center">
-  🧑‍💻 Frontend Developer | React & Shopify Enthusiast | Faith-Fueled Coder
+  🧑‍💻 Frontend Developer | React & Shopify Enthusiast
 </p>
 
 ---
@@ -11,7 +11,7 @@
 - 🌱 Always learning: **React.js**, **MongoDB**, **JavaScript**, **Shopify**, and more.
 - 🧠 Exploring new stacks, breaking limits, and coding with soul.
 - 🌍 Based in **Islamabad, Pakistan** — with proud roots from **Swabi** 🇵🇰
-- 💖 I give to my mom like it’s my salary’s true purpose — and I don’t play about it.
+- 🎮 I build random tools just because I *can* (and it’s fun).
 - 😄 Pronouns: **He/Him**
 
 ---
