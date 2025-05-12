@@ -17,6 +17,7 @@ Profile Visitors Count:
 
 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=haseeb-developer&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="haseeb-developer" /> 
+<p align="center">
+  <img src="https://visitor-badge-reloaded.vercel.app/badge?page_id=haseeb-developer&text=Visitors&color=00ff88" alt="Visitor Count" />
+  <img src="https://ipapi.co/country_flag/" alt="Last Visitor Country" />
 </p>
