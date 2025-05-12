@@ -1,3 +1,41 @@
+<h2 align="center">🌟 Hey, I’m Muhammad Haseeb (@haseeb-developer)</h2>
+
+<p align="center">
+  🧑‍💻 Frontend Developer | React & Shopify Enthusiast | Faith-Fueled Coder
+</p>
+
+---
+
+- 👨‍💻 Currently working at **Node Agency**, building beautiful, functional web experiences.
+- 🔥 Passionate about crafting **standout features** that turn ideas into impact.
+- 🌱 Always learning: **React.js**, **MongoDB**, **JavaScript**, **Shopify**, and more.
+- 🧠 Exploring new stacks, breaking limits, and coding with soul.
+- 🌍 Based in **Islamabad, Pakistan** — with proud roots from **Swabi** 🇵🇰
+- 💖 I give to my mom like it’s my salary’s true purpose — and I don’t play about it.
+- 😄 Pronouns: **He/Him**
+
+---
+
+### 📫 Let’s Connect
+
+- 📧 Email: **haseeb.devv@gmail.com**
+- 💼 LinkedIn: *Coming soon...*
+- 🧰 GitHub: [@haseeb-developer](https://github.com/haseeb-developer)
+- 🤝 Always open to freelance projects, collabs, or just real talk.
+
+---
+<!---
+haseeb-developer/haseeb-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<!---
+Profile Visitors Count:
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
+--->
+
+
+
 
 
 
