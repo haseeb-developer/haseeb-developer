@@ -21,7 +21,7 @@
 - 📧 Email: **haseeb.devv@gmail.com**
 - 🧰 GitHub: [@haseeb-developer](https://github.com/haseeb-developer)
 - 🤝 Always open to freelance projects, collabs, or just real talk.
-- ✨ Portfolio: [Click Me](https://haseeb-kn.vercel.app/)
+- ✨ Portfolio: <a href="https://haseeb-kn.vercel.app/" target="_blank" rel="noopener noreferrer">Click Me</a>
 
 ---
 <!---
