@@ -35,10 +35,6 @@ Profile Visitors Count:
 --->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Code+with+Creativity+🚀;Frontend+Engineer+%7C+React.js+Lover+💙;Shopify+Themes+%26+Apps+Wizard+🛒;Let's+Build+Something+Awesome+Together!+💡" alt="Typing SVG" />
-</p>
-
 
 
 <div align="center">
