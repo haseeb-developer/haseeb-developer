@@ -4,8 +4,6 @@
   🧑‍💻 Frontend Developer | React & Shopify Enthusiast
 </p>
 
----
-
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
   <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
@@ -50,3 +48,26 @@ Profile Visitors Count:
 
 ---
 
+---
+
+### 📊 GitHub Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haseeb-developer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=haseeb-developer&theme=github-dark-blue&hide_border=true" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=haseeb-developer&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+</p>
+
+---
+
+### 🛠️ Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,sass,shopify,nodejs,express,mongodb,firebase,vite,figma,github,vscode,vercel" />
+</p>
+
+---
