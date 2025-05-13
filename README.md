@@ -39,6 +39,11 @@
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseeb-developer&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
+
+--- 
+
+
 ### 🛠️ Tech Toolbox
 
 <p align="center">
@@ -46,7 +51,5 @@
 </p>
 
 ---
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseeb-developer&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
 
 
