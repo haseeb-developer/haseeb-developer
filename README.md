@@ -39,15 +39,6 @@ Profile Visitors Count:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
 --->
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseeb-developer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&theme=github_dark&hide_border=true" height="165">
-</p>
-
----
-
 ---
 
 ### 📊 GitHub Dashboard
