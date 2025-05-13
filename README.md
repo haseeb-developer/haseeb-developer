@@ -8,7 +8,7 @@
 
 - 👨‍💻 Currently working at **Node Company**, building beautiful, functional web experiences.
 - 🔥 Passionate about crafting **standout features** that turn ideas into impact.
-- 🌱 Always learning: **React.js**, **MongoDB**, **JavaScript**, **Shopify**, and more.
+- 🌱 Always learning: **React.js**, **Node**, **JavaScript**, **Shopify**, and more.
 - 🧠 Exploring new stacks, breaking limits, and coding with soul.
 - 🌍 Based in **Islamabad, Pakistan** — with proud roots from **Swabi** 🇵🇰
 - 🎮 I build random tools just because I *can* (and it’s fun).
