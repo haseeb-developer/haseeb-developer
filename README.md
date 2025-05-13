@@ -43,3 +43,21 @@ Profile Visitors Count:
 <p align="center">
   <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
 </p>
+
+
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haseeb-developer&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&theme=github_dark&hide_border=true" height="165">
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
+</div>
