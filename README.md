@@ -58,7 +58,7 @@ Profile Visitors Count:
 ### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,sass,shopify,nodejs,express,mongodb,firebase,vite,figma,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,sass,shopify,nodejs,mongodb,firebase,vite,figma,github,vscode,vercel" />
 </p>
 
 ---
