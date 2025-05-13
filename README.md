@@ -48,11 +48,6 @@ Profile Visitors Count:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&theme=github_dark&hide_border=true" height="165">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=haseeb-developer&theme=github-dark-blue&hide_border=true" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=haseeb-developer&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</p>
-
 ---
 
 ### 🛠️ Tech Toolbox
