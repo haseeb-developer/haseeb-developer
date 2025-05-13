@@ -6,6 +6,13 @@
 
 ---
 
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+  <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
 - 👨‍💻 Currently working at **Node Company**, building beautiful, functional web experiences.
 - 🔥 Passionate about crafting **standout features** that turn ideas into impact.
 - 🌱 Always learning: **React.js**, **Node**, **JavaScript**, **Shopify**, and more.
@@ -34,20 +41,6 @@ Profile Visitors Count:
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
 --->
 
-
-
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
-</p>
-
-
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -57,7 +50,3 @@ Profile Visitors Count:
 
 ---
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/haseeb-developer/count.svg" alt="Visitor Count" />
-</div>
