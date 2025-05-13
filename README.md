@@ -29,17 +29,6 @@
 - 🤝 Always open to freelance projects, collabs, or just real talk.
 
 ---
-<!---
-haseeb-developer/haseeb-developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
-Profile Visitors Count:
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haseeb-developer.haseeb-developer&style=for-the-badge&color=blue)
---->
-
----
 
 ### 📊 GitHub Dashboard
 
