@@ -43,13 +43,16 @@ I build interfaces that are meant to ship, not just work on a local machine — 
 
 <br />
 
-## GitHub Activity
+## GitHub Dashboard
 
 <div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=haseeb-developer&show_icons=true&hide_border=true&theme=dark" height="165" alt="GitHub stats overview" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&hide_border=true&theme=dark" height="165" alt="Most used languages" />
+
 <img src="https://streak-stats.demolab.com/?user=haseeb-developer&hide_border=true&disable_animations=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub contribution streak" />
 
-<sub>Full commit history and repository activity are visible directly on this profile below.</sub>
+<img src="https://ghchart.rshah.org/000000/haseeb-developer" alt="Contribution heatmap" />
 
 </div>
 
