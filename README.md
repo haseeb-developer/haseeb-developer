@@ -45,12 +45,10 @@ Islamabad, Pakistan
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haseeb-developer&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=A1A1AA" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseeb-developer&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=A1A1AA" height="165" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/haseeb-developer/haseeb-developer/main/metrics.overview.svg" alt="GitHub overview metrics" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=haseeb-developer&hide_border=true&disable_animations=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haseeb-developer&hide_border=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF" alt="Contribution Activity" />
+<img src="https://raw.githubusercontent.com/haseeb-developer/haseeb-developer/main/metrics.languages.svg" alt="Most used languages" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=haseeb-developer&hide_border=true&disable_animations=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A" alt="GitHub streak" width="49%" />
 
 </div>
 
