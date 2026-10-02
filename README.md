@@ -31,11 +31,10 @@
 <div align="center" style="margin: 0;">
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
-
+<br />
 <div align="center" style="margin-top: 18px; margin-bottom: 0;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
-<br />
 <a id="stack"></a>
 <br /> 
 <img src="assets/skills.svg" alt="Stack dependency graph: languages to frameworks to platforms to delivery to output" width="100%">
