@@ -16,34 +16,59 @@
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
+<br />
+
 <a id="sysinfo"></a>
 <img src="assets/sysinfo.svg" alt="Animated system information and visual map for Muhammad Haseeb, frontend and Shopify developer" width="100%">
- <br />
+
+<br />
+
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
+
+<br />
 
 <a id="stack-matrix"></a>
 <img src="assets/stack.svg" alt="Animated stack matrix: 33 tools across 6 domains, with exploration and daily-tooling details" width="100%">
- <br />
-  <img src="assets/divider.svg" alt="" width="100%">
+
+<br />
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<br />
+
 <div align="center" style="margin: 0;">
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
- <br />
-  <img src="assets/divider.svg" alt="" width="100%">
+
+<br />
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<br />
 
 
 <a id="stack"></a>
 <img src="assets/skills.svg" alt="Stack dependency graph: languages to frameworks to platforms to delivery to output" width="100%">
 
+<br />
+
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
- <br />
+
+<br />
+
 <a id="radar"></a>
 <img src="assets/radar.svg" alt="Radar of production experience by technology" width="100%">
 
+<br />
+
   <img src="assets/divider.svg" alt="" width="100%">
+
+<br />
 
 <a id="architecture"></a>
 <img src="assets/pipeline.svg" alt="Design to production pipeline with data packets in flight" width="100%">
+
+<br />
 
   <img src="assets/divider.svg" alt="" width="100%">
 
