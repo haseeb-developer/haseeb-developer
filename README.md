@@ -23,7 +23,7 @@
 
 <a id="stack-matrix"></a>
 <img src="assets/stack.svg" alt="Animated stack matrix: 33 tools across 6 domains, with exploration and daily-tooling details" width="100%">
-
+ <br />
   <img src="assets/divider.svg" alt="" width="100%">
 
 <div align="center" style="margin: 0;">
