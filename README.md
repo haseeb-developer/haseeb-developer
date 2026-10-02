@@ -52,7 +52,6 @@
 <a id="radar"></a>
 <img src="assets/radar.svg" alt="Radar of production experience by technology" width="100%">
 
-<br />
 
   <img src="assets/divider.svg" alt="" width="100%">
 
