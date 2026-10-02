@@ -32,7 +32,7 @@
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
 
-<div align="center" style="margin-top: 18px; margin-bottom: 0;">
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
@@ -44,14 +44,14 @@
 <a id="radar"></a>
 <img src="assets/radar.svg" alt="Radar of production experience by technology" width="100%">
 
-<div align="center" style="margin-top: 18px; margin-bottom: 0;">
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
 <a id="architecture"></a>
 <img src="assets/pipeline.svg" alt="Design to production pipeline with data packets in flight" width="100%">
 
-<div align="center" style="margin-top: 18px; margin-bottom: 0;">
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
