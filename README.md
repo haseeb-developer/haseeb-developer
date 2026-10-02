@@ -5,10 +5,10 @@
 
 <br />
 
-<div align="center" style="display: flex; gap: 20px; flex-directon: row;">
+<div align="center">
 
-<a href="https://haseebkn.vercel.app/" style="flex: 1;"><img src="assets/btn-open-portfolio.svg" alt="open portfolio" width="100%" height="40"></a>
-<a href="https://www.upwork.com/freelancers/haseebkn" style="flex: 1;"><img src="assets/btn-hire-me.svg" alt="hire me on Upwork" width="100%" height="40"></a>
+<a href="https://haseebkn.vercel.app/"><img src="assets/btn-open-portfolio.svg" alt="open portfolio" width="48%" height="40"></a>&nbsp;
+<a href="https://www.upwork.com/freelancers/haseebkn"><img src="assets/btn-hire-me.svg" alt="hire me on Upwork" width="48%" height="40"></a>
 
 </div>
 
