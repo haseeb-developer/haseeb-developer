@@ -55,7 +55,6 @@
 
   <img src="assets/divider.svg" alt="" width="100%">
 
-<br />
 
 <a id="architecture"></a>
 <img src="assets/pipeline.svg" alt="Design to production pipeline with data packets in flight" width="100%">
