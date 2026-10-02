@@ -14,7 +14,6 @@
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
-<br />
 
 <a id="sysinfo"></a>
 <img src="assets/sysinfo.svg" alt="Animated system information and visual map for Muhammad Haseeb, frontend and Shopify developer" width="100%">
