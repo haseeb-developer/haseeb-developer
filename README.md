@@ -32,13 +32,11 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<br />
 
 <div align="center" style="margin: 0;">
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
 
-<br />
 
 <img src="assets/divider.svg" alt="" width="100%">
 
