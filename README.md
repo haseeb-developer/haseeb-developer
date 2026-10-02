@@ -24,33 +24,42 @@
 <a id="stack-matrix"></a>
 <img src="assets/stack.svg" alt="Animated stack matrix: 33 tools across 6 domains, with exploration and daily-tooling details" width="100%">
 
-<div align="center" style="margin-top: 18px; margin-bottom: 0;">
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
 
 <div align="center" style="margin: 0;">
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
-<br />
-<div align="center" style="margin-top: 18px; margin-bottom: 0;">
+
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
   <img src="assets/divider.svg" alt="" width="100%">
 </div>
+
 <a id="stack"></a>
-<br /> 
+
 <img src="assets/skills.svg" alt="Stack dependency graph: languages to frameworks to platforms to delivery to output" width="100%">
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
-<br />
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
+
 <a id="radar"></a>
 <img src="assets/radar.svg" alt="Radar of production experience by technology" width="100%">
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
 
 <a id="architecture"></a>
-<br />
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
 <img src="assets/pipeline.svg" alt="Design to production pipeline with data packets in flight" width="100%">
 
-<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
+<div align="center" style="margin-top: 18px; margin-bottom: 18px;">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
 
 <div align="center">
 <sub><code>END OF TRANSMISSION</code></sub>
