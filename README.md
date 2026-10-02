@@ -25,11 +25,10 @@
 <img src="assets/stack.svg" alt="Animated stack matrix: 33 tools across 6 domains, with exploration and daily-tooling details" width="100%">
  <br />
   <img src="assets/divider.svg" alt="" width="100%">
-
 <div align="center" style="margin: 0;">
   <img src="assets/work.svg" alt="36 selected builds across Shopify, web apps, WordPress and UI/UX" width="100%">
 </div>
-
+ <br />
   <img src="assets/divider.svg" alt="" width="100%">
 
 
