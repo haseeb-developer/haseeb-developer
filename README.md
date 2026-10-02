@@ -40,7 +40,6 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-<br />
 
 <a id="stack"></a>
 <img src="assets/skills.svg" alt="Stack dependency graph: languages to frameworks to platforms to delivery to output" width="100%">
