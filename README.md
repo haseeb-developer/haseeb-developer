@@ -39,7 +39,7 @@
 <img src="assets/skills.svg" alt="Stack dependency graph: languages to frameworks to platforms to delivery to output" width="100%">
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
-
+ <br />
 <a id="radar"></a>
 <img src="assets/radar.svg" alt="Radar of production experience by technology" width="100%">
 
