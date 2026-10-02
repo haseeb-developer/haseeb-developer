@@ -12,7 +12,7 @@
 <br />
 
 <div align="center">
-<img src="assets/hero.svg" alt="Haseeb - Frontend and Shopify Developer, boot sequence" width="100%">
+<img src="assets/main.svg" alt="Haseeb - Frontend and Shopify Developer terminal profile" width="100%">
 </div>
 <br />
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
