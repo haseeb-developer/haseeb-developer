@@ -15,6 +15,8 @@
 <img src="assets/hero.svg" alt="Haseeb - Frontend and Shopify Developer, boot sequence" width="100%">
 </div>
 
+<div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
+
 <a id="sysinfo"></a>
 <img src="assets/sysinfo.svg" alt="Animated system information and visual map for Muhammad Haseeb, frontend and Shopify developer" width="100%">
 
